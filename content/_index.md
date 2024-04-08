@@ -20,4 +20,12 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
+  - block: markdown
+    content:
+      filters:
+        folders:
+          - post
+    design:
+      spacing:
+        padding: ['3rem', 0, '6rem', 0]
 ---
