@@ -24,7 +24,7 @@ organizations:
   - name: 网易
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 服务端开发工程师，记录学习内容，分享工作心得
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -56,6 +56,8 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+
+目前在高频复习 Java 技术栈，包括基础知识、高并发、框架、Leecode、中间件、项目等，会将复习内容分享到这里。
