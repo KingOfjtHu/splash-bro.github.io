@@ -60,4 +60,4 @@ website: ""
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-目前在高频复习 Java 技术栈，包括基础知识、高并发、框架、Leecode、中间件、项目等，会将复习内容分享到这里。
+目前在高频复习 Java 技术栈，包括基础知识、高并发、框架、Leetcode、中间件、项目等，会将复习内容分享到这里。
